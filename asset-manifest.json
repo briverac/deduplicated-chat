@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/deduplicated-chat/static/css/main.d1b05096.chunk.css",
-    "main.js": "/deduplicated-chat/static/js/main.8038e123.chunk.js",
-    "main.js.map": "/deduplicated-chat/static/js/main.8038e123.chunk.js.map",
+    "main.css": "/deduplicated-chat/static/css/main.79dc440a.chunk.css",
+    "main.js": "/deduplicated-chat/static/js/main.aa77911f.chunk.js",
+    "main.js.map": "/deduplicated-chat/static/js/main.aa77911f.chunk.js.map",
     "runtime-main.js": "/deduplicated-chat/static/js/runtime-main.24523fda.js",
     "runtime-main.js.map": "/deduplicated-chat/static/js/runtime-main.24523fda.js.map",
-    "static/js/2.bbc0af43.chunk.js": "/deduplicated-chat/static/js/2.bbc0af43.chunk.js",
-    "static/js/2.bbc0af43.chunk.js.map": "/deduplicated-chat/static/js/2.bbc0af43.chunk.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/deduplicated-chat/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.ba7112eb.chunk.js": "/deduplicated-chat/static/js/2.ba7112eb.chunk.js",
+    "static/js/2.ba7112eb.chunk.js.map": "/deduplicated-chat/static/js/2.ba7112eb.chunk.js.map",
     "index.html": "/deduplicated-chat/index.html",
-    "precache-manifest.29049bcb085cf5c47dbe3721de83eeee.js": "/deduplicated-chat/precache-manifest.29049bcb085cf5c47dbe3721de83eeee.js",
+    "precache-manifest.79b77ee1a013206339c2af06b4042a54.js": "/deduplicated-chat/precache-manifest.79b77ee1a013206339c2af06b4042a54.js",
     "service-worker.js": "/deduplicated-chat/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/deduplicated-chat/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.bbc0af43.chunk.js.LICENSE.txt": "/deduplicated-chat/static/js/2.bbc0af43.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/deduplicated-chat/static/media/logo.5d5d9eef.svg"
+    "static/css/2.47e06e2e.chunk.css.map": "/deduplicated-chat/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.79dc440a.chunk.css.map": "/deduplicated-chat/static/css/main.79dc440a.chunk.css.map",
+    "static/js/2.ba7112eb.chunk.js.LICENSE.txt": "/deduplicated-chat/static/js/2.ba7112eb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.24523fda.js",
-    "static/js/2.bbc0af43.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.8038e123.chunk.js"
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.ba7112eb.chunk.js",
+    "static/css/main.79dc440a.chunk.css",
+    "static/js/main.aa77911f.chunk.js"
   ]
 }
