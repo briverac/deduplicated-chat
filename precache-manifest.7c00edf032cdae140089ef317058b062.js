@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c99f278a1cf98a0bdf115d77e8341718",
+    "revision": "d1d9ef6f19e18d1c717d98179dfe1eba",
     "url": "/deduplicated-chat/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deduplicated-chat/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "c2017ceee46331db44a7",
+    "revision": "e2fcd6b51d2d19f681d6",
     "url": "/deduplicated-chat/static/css/main.10e01a9c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/deduplicated-chat/static/js/2.ba7112eb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c2017ceee46331db44a7",
-    "url": "/deduplicated-chat/static/js/main.23320368.chunk.js"
+    "revision": "e2fcd6b51d2d19f681d6",
+    "url": "/deduplicated-chat/static/js/main.f14ca38d.chunk.js"
   },
   {
     "revision": "6a4ba9c61a9260910b60",
