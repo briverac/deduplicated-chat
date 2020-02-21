@@ -11,6 +11,8 @@ const FormattedDate = (props) => {
     days[date.getDay()],
     ' ',
     months[date.getMonth()],
+    ' ',
+    date.getDate(),
     ', ',
     date.getFullYear(),
     ' at ',
