@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/github.io/deduplicated-chat/static/css/main.d1b05096.chunk.css",
-    "main.js": "/github.io/deduplicated-chat/static/js/main.bc851b62.chunk.js",
-    "main.js.map": "/github.io/deduplicated-chat/static/js/main.bc851b62.chunk.js.map",
-    "runtime-main.js": "/github.io/deduplicated-chat/static/js/runtime-main.e5ba9e3c.js",
-    "runtime-main.js.map": "/github.io/deduplicated-chat/static/js/runtime-main.e5ba9e3c.js.map",
-    "static/js/2.bbc0af43.chunk.js": "/github.io/deduplicated-chat/static/js/2.bbc0af43.chunk.js",
-    "static/js/2.bbc0af43.chunk.js.map": "/github.io/deduplicated-chat/static/js/2.bbc0af43.chunk.js.map",
-    "index.html": "/github.io/deduplicated-chat/index.html",
-    "precache-manifest.b7023b46c6ea689362bacc18d8931252.js": "/github.io/deduplicated-chat/precache-manifest.b7023b46c6ea689362bacc18d8931252.js",
-    "service-worker.js": "/github.io/deduplicated-chat/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/github.io/deduplicated-chat/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.bbc0af43.chunk.js.LICENSE.txt": "/github.io/deduplicated-chat/static/js/2.bbc0af43.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/github.io/deduplicated-chat/static/media/logo.5d5d9eef.svg"
+    "main.css": "/deduplicated-chat/static/css/main.d1b05096.chunk.css",
+    "main.js": "/deduplicated-chat/static/js/main.8038e123.chunk.js",
+    "main.js.map": "/deduplicated-chat/static/js/main.8038e123.chunk.js.map",
+    "runtime-main.js": "/deduplicated-chat/static/js/runtime-main.24523fda.js",
+    "runtime-main.js.map": "/deduplicated-chat/static/js/runtime-main.24523fda.js.map",
+    "static/js/2.bbc0af43.chunk.js": "/deduplicated-chat/static/js/2.bbc0af43.chunk.js",
+    "static/js/2.bbc0af43.chunk.js.map": "/deduplicated-chat/static/js/2.bbc0af43.chunk.js.map",
+    "index.html": "/deduplicated-chat/index.html",
+    "precache-manifest.29049bcb085cf5c47dbe3721de83eeee.js": "/deduplicated-chat/precache-manifest.29049bcb085cf5c47dbe3721de83eeee.js",
+    "service-worker.js": "/deduplicated-chat/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/deduplicated-chat/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.bbc0af43.chunk.js.LICENSE.txt": "/deduplicated-chat/static/js/2.bbc0af43.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/deduplicated-chat/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e5ba9e3c.js",
+    "static/js/runtime-main.24523fda.js",
     "static/js/2.bbc0af43.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.bc851b62.chunk.js"
+    "static/js/main.8038e123.chunk.js"
   ]
 }
