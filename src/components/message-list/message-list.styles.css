@@ -1,0 +1,5 @@
+.message-list {
+  width: 70vw;
+  margin: 0 auto;
+  display: grid;
+}

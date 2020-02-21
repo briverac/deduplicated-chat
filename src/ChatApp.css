@@ -1,0 +1,34 @@
+.ChatApp {
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Multi';
+  font-size: 72px;
+  text-align: center;
+}
+
+.pagination {
+  float: left;
+}
+
+.button-area{
+  width: 70vw;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.table{
+  border: 2px solid #007bff !important;
+  border-radius: 25px;
+  border-collapse: separate;
+}
+
+.table td{
+  border: 0px !important;
+  vertical-align: middle !important;
+}
+
+.table tr{
+  border: 0px !important;
+}
