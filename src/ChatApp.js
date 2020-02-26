@@ -31,6 +31,7 @@ class ChatApp extends Component {
     return messages.filter((item, i) => messages.findIndex((ele) => ele.uuid === item.uuid) === i);
   }
 
+
   onRemoveMessageClick = (element) => {
     const { uuid } = element;
     const { messages } = this.state;
